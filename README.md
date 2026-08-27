@@ -26,12 +26,4 @@
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="55" height="55">
 </p>
 
-<p align="center">
-  <strong>Bash</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Go</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Python</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Rust</strong>
-</p>
+
